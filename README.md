@@ -19,8 +19,6 @@
     </a>
 </p>
 
-![screenshots](https://raw.githubusercontent.com/inputmice/Conversations/master/screenshots.png)
-
 ## Design principles
 
 * Be as beautiful and easy to use as possible without sacrificing security or
